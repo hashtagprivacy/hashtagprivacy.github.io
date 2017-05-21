@@ -1,0 +1,17 @@
+# main links
+main:
+#  - title: "Contributions"
+#    url: /pages/contributions/
+guide:
+#  - title: Getting Started
+#    children:
+#      - title: "Quick-Start Guide"
+#        url: /docs/quick-start-guide/
+  - title: ""
+    children:
+      - title: "Contributions"
+        url: /pages/contributions/
+      - title: "Terms of Use"
+        url: /pages/terms-of-use/
+      - title: "Privacy Policy"
+        url: /pages/privacy-policy/
