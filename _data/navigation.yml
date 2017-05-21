@@ -2,11 +2,11 @@
 main:
 #  - title: "Contributions"
 #    url: /pages/contributions/
+
+# sidebar nav sections
 guide:
-#  - title: Getting Started
-#    children:
-#      - title: "Quick-Start Guide"
-#        url: /docs/quick-start-guide/
+  - title: "Introduction"
+    url: /guide/introduction/
   - title: ""
     children:
       - title: "Contributions"
