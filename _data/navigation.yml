@@ -11,6 +11,8 @@ guide:
       url: /
     - title: "Concepts"
       url: /guide/concepts/
+    - title: "Web Browsing"
+      url: /guide/web-browsing/
     - title: "Additional Resources"
       url: /guide/additional-resources/
   - title: ""
