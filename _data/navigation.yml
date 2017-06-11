@@ -5,8 +5,12 @@ main:
 
 # sidebar nav sections
 guide:
-  - title: "Introduction"
-    url: /guide/introduction/
+  - title: "Guide"
+    children:
+    - title: "Introduction"
+      url: /
+    - title: "Additional Resources"
+      url: /guide/additional-resources/
   - title: ""
     children:
       - title: "Contributions"
