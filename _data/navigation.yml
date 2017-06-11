@@ -9,6 +9,8 @@ guide:
     children:
     - title: "Introduction"
       url: /
+    - title: "Concepts"
+      url: /guide/concepts/
     - title: "Additional Resources"
       url: /guide/additional-resources/
   - title: ""
