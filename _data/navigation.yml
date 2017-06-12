@@ -13,6 +13,8 @@ guide:
       url: /guide/concepts/
     - title: "Web Browsing"
       url: /guide/web-browsing/
+    - title: "Passwords"
+      url: /guide/passwords/
     - title: "Additional Resources"
       url: /guide/additional-resources/
   - title: ""
