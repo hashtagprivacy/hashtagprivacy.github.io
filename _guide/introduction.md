@@ -1,9 +1,3 @@
----
-title: Introduction
-last_modified_at: 2017-03-22T23:49:00-07:00
-permalink: /
----
-
 ## Privacy for the non-expert
 
 This guide is made for people who want the benefits of privacy without necessarily wanting to understand all the ins-and-outs of it. Frankly speaking, if you’re a techie or a wonk, you can figure this stuff out yourself.
