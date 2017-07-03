@@ -21,6 +21,7 @@ Tracking - information disclosure
 
 Internet service and WiFi
 
+
 DNS
 DNS leak
 https://www.opendns.com/about/innovations/dnscrypt/
