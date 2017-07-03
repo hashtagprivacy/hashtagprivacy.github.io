@@ -16,6 +16,11 @@ Likewise, sometimes the “best” option is so difficult to implement that even
 
 Sometimes even the best privacy tools are often cumbersome and clunky, and not something most people have the time and patience for. By giving folks a simple, opinionated guide that says “this is the best tool right now, that combined ease-of-use with functionality,” they can at least make an informed decision on whether it’s worth the time and usability investment. Sometimes people want privacy but the tools border on user-hostile. We need better, easier-to-use privacy tools.
 
+Difference between anonymous alter-ego vs “I don’t want people showing up at my house”
+
+It’s not just as simple as “oh I’ll start using spider oak” because the whole thing falls apart as soon as someone sends you a dropbox link of something you need quickly or want badly, and that’s the kind of thing people have to consider.
+
+
 
 ## "I have nothing to hide."
 
